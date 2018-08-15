@@ -1,0 +1,3 @@
+$(function(){
+  actualizar_tabla();
+})

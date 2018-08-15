@@ -1,0 +1,29 @@
+.ui-widget-header {
+    border: none !important;
+    background: none !important;
+    color: white;
+}
+
+
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
+    border: none !important;
+    /*background: none !important;*/
+    font-weight: normal;
+    color: #454545;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+    border: 1px solid #003eff;
+    background: #007fff;
+    font-weight: normal;
+    color: #ffffff;
+  }
+
+.ui-datepicker-year{
+  background-color: white !important;
+}
+
+.ui-datepicker-month{
+  background-color: white !important;
+}
